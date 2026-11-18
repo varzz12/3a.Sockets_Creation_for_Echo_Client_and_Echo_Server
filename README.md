@@ -47,8 +47,9 @@ print("Server echoed:", data)
 client_socket.close()
 ```
 ## OUPUT
-<img width="1673" height="135" alt="Screenshot 2026-11-18 100708" src="https://github.com/user-attachments/assets/157af99b-c0f4-4357-822b-fef46fced626" />
-<img width="1685" height="238" alt="Screenshot 2026-11-18 100734" src="https://github.com/user-attachments/assets/8a3f37a3-7e2e-485a-b7a9-5e5c77dd5adb" />
+<img width="1665" height="163" alt="Screenshot 2026-11-18 103334" src="https://github.com/user-attachments/assets/acfd589d-4653-45fb-89d9-f80d5bb49a46" />
+<img width="1697" height="295" alt="Screenshot 2026-11-18 103349" src="https://github.com/user-attachments/assets/2e728575-3ad4-4448-a397-1dbc5f94ba62" />
+
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
